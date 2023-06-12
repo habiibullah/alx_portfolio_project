@@ -1,3 +1,4 @@
+IMAGE COMPRESSION USING PYTHON
 Steps to design a Python framework for an image compression algorithm:
 
 Choose a compression algorithm: The first step is to select an image compression algorithm that you want to implement. Some popular algorithms are JPEG, PNG, and GIF.
